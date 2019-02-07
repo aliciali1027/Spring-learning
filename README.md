@@ -8,3 +8,7 @@ https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/5608584?start
 Deploying To Tomcat using WAR files
 ====
 https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/5633776?start=0
+
+Spring MVC Form Tags
+====
+https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/web.html#mvc-view-jsp-tags
