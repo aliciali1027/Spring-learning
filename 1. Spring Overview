@@ -1,0 +1,96 @@
+#Why Spring？
+Spring in a Nutshell: 简而言之
+Spring is a popular framework for building Java application
+It is initially a simpler and lighweight alternative to J2EE
+It provides a large number of helper class to make enterprise development easier.
+
+What about J2EE?
+J2EE has:
+Client-Side Presentation
+Server-side Presentation with JSP, servlets, XML and web services
+Server-side Business Logic using Enterprise JavaBeans, web services
+Databases
+
+What should we do?
+Should learn both Spring and Java EE
+
+What's new in Spring 5?
+
+
+The core features of Spring 4 remain the same:
+Inversion of Control
+Dependency Injection
+Spring AOP
+Spring MVC
+
+Spring Website - Official
+www.spring.io
+
+Spring Core Framework 
+Why Spring? 
+- Simplify Java Enterprise Development
+
+Goals of Spring
+Lightweight development with Java POJOs (Plain-Old-Java-Objects)
+Dependency injection to promote loose coupling
+Declarative programming with Aspect-Oriented-Programming (AOP) 面向方面的编程
+Minimize boilerplate Java code 引用 - with helper class
+
+Core Container:
+Beans, Core, SpEL, Context
+It has a bean factory for creating beans
+Manage bean dependencies
+
+Infrastructure:
+AOP, Aspects, Instrumentation, Messaging
+
+Add a config
+Instrumentation - Java agents to remotely monitor your app with JMX (Java Management Extension)
+
+Data Access Layer-This is for communicating with Databases
+JDBC, ORM, Transactions, OXM, JMS
+JDBC - JDBC Helper class - Spring JDBC classes reduce the JDBC code by 50%
+ORM - Object to Relational Mapping - Integration with Hibernate and JPA
+Transactions - Add transaction support - Makes heavy use of AOP behind the scenes
+JMS - Java Message Service - for sending async messages to a Message Broker
+
+Web Layer - The home to build web applications
+Servlet, WebSocket, Web, Portlet
+All web related classes
+It is the home of the Spring MVC framework
+
+Test Layer 
+Unit, Integration, Mock
+Supports Test-Driven-Development (TDD)
+Mock objects and out-of-container testing
+
+
+Spring Platform
+What are Spring "Projects"?
+Spring projects are additional Spring modules built-on top of the core Spring framework
+You only use what you need:
+Spring Cloud, Spring Data
+Spring Batch, Spring Security
+Spring for Android, Spring Web Flow
+Spring Web Services, Spring LDAP
+
+http://spring.io/projects
+
+Java Application Server - Tomcat
+Java Integrated Development Environment (IDE) - Eclipse
+
+Download Java JAR files:
+
+Window - Perspective - Open Perspective - Java
+Then File - New - Java Project
+Name it as spring-demo-one
+Then download the JAR files:
+http://repo.spring.io/release/org/springframework/spring/
+Choose the latest released on and the release-dist.zip
+Open - libs - Copy all the JAR files
+Then create a new folder called lib in the project
+Pasge the JAR files in the lib
+Then right click the project - Properties - Java Build Path - Add JARs
+
+THEN select all the JAR file and apply all of them
+
