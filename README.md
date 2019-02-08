@@ -12,3 +12,7 @@ https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/5633776?start
 Spring MVC Form Tags
 ====
 https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/web.html#mvc-view-jsp-tags
+
+How to use properties file to load country options
+====
+https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/5940154?start=0
