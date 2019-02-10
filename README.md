@@ -16,3 +16,7 @@ https://docs.spring.io/spring/docs/5.0.2.RELEASE/spring-framework-reference/web.
 How to use properties file to load country options
 ====
 https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/5940154?start=0
+
+Integrate multiple validation string in one annotation
+====
+https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/7407632?start=0
