@@ -20,3 +20,7 @@ https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/5940154?start
 Integrate multiple validation string in one annotation
 ====
 https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/7407632?start=0
+
+How to read Dates with Hibernate
+====
+https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/7314676?start=0
