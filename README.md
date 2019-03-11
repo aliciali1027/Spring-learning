@@ -29,3 +29,13 @@ https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/7407632?start
 How to read Dates with Hibernate
 ====
 https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/7314676?start=0
+
+How to add Search features
+====
+We'll add a search box at to the screen and the user can enter a name. On the backend, we'll compare this name to the customer's first name or last name.
+Overview of Development Process
+1. Create the HTML form
+2. Add mapping to the controller
+3. Add methods in the service layer to delegate to DAO
+4. Add method in the DAO to perfom search
+https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/6525810?start=0
