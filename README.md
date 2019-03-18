@@ -39,3 +39,8 @@ Overview of Development Process
 3. Add methods in the service layer to delegate to DAO
 4. Add method in the DAO to perfom search
 https://www.udemy.com/spring-hibernate-tutorial/learn/v4/t/lecture/6525810?start=0
+
+Exception: No bean name available
+====
+Check if forgot to add @Component annotation to the java class
+
