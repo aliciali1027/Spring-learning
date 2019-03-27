@@ -44,3 +44,9 @@ Exception: No bean name available
 ====
 Check if forgot to add @Component annotation to the java class
 
+Spring Annnotations in details
+====
+https://blog.csdn.net/coslay/article/details/28321165
+Spring常用注解介绍【经典总结】
+https://blog.csdn.net/u010648555/article/details/76299467
+
