@@ -52,3 +52,17 @@ Spring常用注解介绍【经典总结】
 ====
 https://blog.csdn.net/u010648555/article/details/76299467
 
+
+How to solve .m2 repository in POM.xml
+====
+https://www.idownloadblog.com/2015/02/18/restart-finder-mac/
+2) Open . files in terminal
+https://blog.csdn.net/testcs_dn/article/details/73740835
+3) How to killall Finder
+https://blog.csdn.net/u012557538/article/details/78402970
+4) how to find .m2 in terminal
+https://stackoverflow.com/questions/24496131/where-is-my-m2-folder-on-mac-os-x-mavericks
+5) Whole process
+https://www.jianshu.com/p/ddd70eedf26f
+
+
