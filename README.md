@@ -65,4 +65,8 @@ https://stackoverflow.com/questions/24496131/where-is-my-m2-folder-on-mac-os-x-m
 5) Whole process
 https://www.jianshu.com/p/ddd70eedf26f
 
+Spring Boot Whitelabel Error Page
+====
+https://www.javadevjournal.com/spring-boot/spring-boot-whitelabel-error-page/
+https://stackoverflow.com/questions/52501089/spring-boot-primitive-rest-controller-returns-whitelabel-error-page
 
