@@ -70,3 +70,7 @@ Spring Boot Whitelabel Error Page
 https://www.javadevjournal.com/spring-boot/spring-boot-whitelabel-error-page/
 https://stackoverflow.com/questions/52501089/spring-boot-primitive-rest-controller-returns-whitelabel-error-page
 
+Thymeleaf
+====
+Spring MVC part III: ThymeLeaf integration
+https://doanduyhai.wordpress.com/2012/04/14/spring-mvc-part-iii-thymeleaf-integration/
