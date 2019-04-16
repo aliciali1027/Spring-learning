@@ -74,3 +74,8 @@ Thymeleaf
 ====
 Spring MVC part III: ThymeLeaf integration
 https://doanduyhai.wordpress.com/2012/04/14/spring-mvc-part-iii-thymeleaf-integration/
+
+SpringBoot跳转页面详解+thymeleaf
+====
+https://blog.csdn.net/jintingbo/article/details/81633615
+
