@@ -79,3 +79,6 @@ SpringBoot跳转页面详解+thymeleaf
 ====
 https://blog.csdn.net/jintingbo/article/details/81633615
 
+Spring Boot中如何干掉if else
+====
+https://my.oschina.net/u/3990817/blog/3037029
