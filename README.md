@@ -87,4 +87,6 @@ Spring Boot中如何干掉if else
 ====
 https://my.oschina.net/u/3990817/blog/3037029
 
-
+Thymeleaf + Spring: Property or field 'XX' cannot be found on null 
+====
+https://stackoverflow.com/questions/50799171/el1008e-property-or-field-content-cannot-be-found-on-object-of-type-java-uti
