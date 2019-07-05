@@ -91,3 +91,7 @@ Thymeleaf + Spring: Property or field 'XX' cannot be found on null
 ====
 https://stackoverflow.com/questions/50799171/el1008e-property-or-field-content-cannot-be-found-on-object-of-type-java-uti
 https://stackoverflow.com/questions/54278668/why-is-my-form-not-passing-information-in-spring-boot
+
+java.lang.numberformatexception for input string null - Cause and Solution
+====
+Read more: https://javarevisited.blogspot.com/2016/08/javalangnumberformatexception-for-input-string-null-java.html#ixzz5sna0joqQ
