@@ -107,3 +107,10 @@ Load image with spring boot thymeleaf
 </div>
 https://stackoverflow.com/questions/51083414/cant-load-image-with-spring-boot-thymeleaf/51083565#51083565?newreg=d87d59e294554dfb93bc144e15c1e422
 
+
+java.lang.StackOverflowError: null - toString method
+====
+I assume the @ToString annotation tells some tool you’re using (Lombok?) to generate a toString method that prints the values of all the fields. Each of the classes refer to the other: Product has a Categorie and Categorie has a list of Product instances. So when the toString implementation prints a Categorie, it calls toString on each Product, which then calls toString on its Categorie, etc. Since Product presumably refers to a Categorie which includes that Product in its products list, the toString calls bounce back and forth until the stack overflows. The solution is to avoid printing either Categorie,products or Product.categorie from the toString method.
+https://stackoverflow.com/questions/54653734/lombok-java-lang-stackoverflowerror-null-on-tostring-method
+https://stackoverflow.com/questions/23973347/jpa-java-lang-stackoverflowerror-on-adding-tostring-method-in-entity-classes
+
