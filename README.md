@@ -102,6 +102,8 @@ https://www.quora.com/How-do-I-resolve-%E2%80%9Cjava-lang-NumberFormatException%
 
 Load image with spring boot thymeleaf
 ====
-<img src="../static/images/pirate.jpg" width="1000" th:src="@{images/pirate.jpg}"/>
+<div class="ui segment">
+<img src="../static/images/Aboutme.JPEG" alt="" class="ui rounded image" th:src="@{images/Aboutme.JPEG}" />
+</div>
 https://stackoverflow.com/questions/51083414/cant-load-image-with-spring-boot-thymeleaf/51083565#51083565?newreg=d87d59e294554dfb93bc144e15c1e422
 
