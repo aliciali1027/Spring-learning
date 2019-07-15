@@ -100,3 +100,8 @@ How do I resolve “java.lang.NumberFormatException” for input string "161"?
 ====
 https://www.quora.com/How-do-I-resolve-%E2%80%9Cjava-lang-NumberFormatException%E2%80%9D-for-input-string-161
 
+Load image with spring boot thymeleaf
+====
+<img src="../static/images/pirate.jpg" width="1000" th:src="@{images/pirate.jpg}"/>
+https://stackoverflow.com/questions/51083414/cant-load-image-with-spring-boot-thymeleaf/51083565#51083565?newreg=d87d59e294554dfb93bc144e15c1e422
+
