@@ -120,3 +120,7 @@ https://blog.csdn.net/xuemengrui12/article/details/74984731
 
 ### 出错的问题
 https://blog.csdn.net/qq_37350706/article/details/84325520
+
+### Deploy a JAVA Web Application in DigitalOcean
+https://medium.com/@ldclakmal/deploy-a-java-web-application-in-digitalocean-882226dcdbd5
+
