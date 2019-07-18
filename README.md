@@ -114,3 +114,9 @@ I assume the @ToString annotation tells some tool you’re using (Lombok?) to ge
 https://stackoverflow.com/questions/54653734/lombok-java-lang-stackoverflowerror-null-on-tostring-method
 https://stackoverflow.com/questions/23973347/jpa-java-lang-stackoverflowerror-on-adding-tostring-method-in-entity-classes
 
+## Intellij IDEA 中生成JAR包及导出 - include project build
+https://blog.csdn.net/qq_34120041/article/details/71713205
+https://blog.csdn.net/xuemengrui12/article/details/74984731
+
+### 出错的问题
+https://blog.csdn.net/qq_37350706/article/details/84325520
