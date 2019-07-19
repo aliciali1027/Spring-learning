@@ -127,4 +127,6 @@ https://medium.com/@ldclakmal/deploy-a-java-web-application-in-digitalocean-8822
 ### How to Connect to your Droplet with OpenSSH
 https://www.digitalocean.com/docs/droplets/how-to/connect-with-ssh/openssh/
 
+### idea2018 如何将springboot项目打包成只有一个jar包！
+https://blog.csdn.net/qq_39802614/article/details/82710229
 
